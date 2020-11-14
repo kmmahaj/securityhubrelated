@@ -1,8 +1,9 @@
-# Continuous Compliance with AWS ECR and AWS Security Hub
+# Automated Container Image Compliance with AWS ECR and AWS Security Hub
 
-* Allows images pushed to AWS ECR to be continuously scanned for vulnerabilities. 
-* Vulnerabilities are pushed as findings to AWS Security Hub
+
+* AWS ECR Image Vulnerabilities to be pushed as findings to AWS Security Hub
 * AWS Security Hub Remediation action restricts access to any AWS ECR container image when a vulnerability is detected during an image scan
+* Demonstrates **"Custom Detection" AND **"Custom Remediation"** by AWS Security Hub. 
 
 
 ## What is Built
@@ -39,4 +40,4 @@
 	* Navigate to  the AWS ECR console, select the Repository that contains the vulnerable image and validate the Deny permissions policy provisioned by the Security Hub remediation action by selecting Permissions in the left panel
 
 ## Author
-@kmmahaj 
+Kanishk Mahajan

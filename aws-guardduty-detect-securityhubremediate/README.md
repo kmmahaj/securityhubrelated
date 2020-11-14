@@ -36,5 +36,5 @@
 
 ## Author
 
-kmmahaj@amazon.com
+Kanishk Mahajan
 
