@@ -3,7 +3,7 @@
 
 * AWS ECR Image Vulnerabilities to be pushed as findings to AWS Security Hub
 * AWS Security Hub Remediation action restricts access to any AWS ECR container image when a vulnerability is detected during an image scan
-* Demonstrates **"Custom Detection" AND **"Custom Remediation"** by AWS Security Hub. 
+* Demonstrates **"Custom Detection"** AND **"Custom Remediation"** by AWS Security Hub. 
 
 
 ## What is Built
